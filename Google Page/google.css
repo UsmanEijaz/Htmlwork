@@ -1,0 +1,55 @@
+#logo{
+margin-left: 450px;       
+  
+  } 
+  .Pak
+  {
+      color: #1e90ff;
+      font-size: 22px;
+      font-family: Arial, Helvetica, sans-serif;
+  }
+  #text{
+      border: 1px solid #d3d3d3;
+      height: 50px;
+      width: 580px;
+      margin-left: 335px;
+      font-size: 24px;
+      background: url(./voice.png);
+      background-repeat: no-repeat;
+      background-size: 30px 30px;
+      background-position-x: 550px;
+      background-position-y: 10px;
+    }
+    .but{
+        
+        margin-left: 450px;
+        height: 40px;
+        width: 150px;
+    }
+     .buton{
+         
+        margin-left: 45px;
+        height: 40px;
+        width: 150px;
+         
+     }
+     .label{
+         margin-left: 535px;
+     }
+     .gmail{
+         color: #a9a9a9;
+         font-size: 18px;
+         margin-left: 1100px;
+     }
+     .img{
+         color: #a9a9a9;
+         font-size: 18px;
+         
+     }
+     .sign{
+        background-color: #00bfff;
+        color: #fff;
+        height: 32px;
+        width: 67px;
+     }
+     
